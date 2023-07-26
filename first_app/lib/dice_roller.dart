@@ -26,14 +26,12 @@ class _DiceRollerState extends State<DiceRoller> {
       children: [
         Image.asset(imagemInicial, width: 200),
         //const SizedBox(height: 20),
+        const SizedBox(height: 20),
         TextButton(
             onPressed: () {
               rolarDado();
             },
             style: TextButton.styleFrom(
-              padding: const EdgeInsets.only(
-                top: 20,
-              ),
               foregroundColor: Colors.white,
               textStyle: const TextStyle(fontSize: 28),
             ),
