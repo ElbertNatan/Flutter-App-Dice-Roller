@@ -1,5 +1,5 @@
-# flutter-app-1
-First Flutter app - Dice App
+# Flutter Dice Roller
+Dice App
  > Utilizado sdk android 13 api 33
  - Modules for dart e flutter
 ## Dice Roller
